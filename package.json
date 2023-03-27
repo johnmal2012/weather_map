@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnmal2012/weather_map.git"
+    "url": "git+https://github.com/johnmal2012/weather_app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnmal2012/weather_map/issues"
+    "url": "https://github.com/johnmal2012/weather_app/issues"
   },
-  "homepage": "https://github.com/johnmal2012/weather_map#readme"
+  "homepage": "https://github.com/johnmal2012/weather_app#readme"
 }
