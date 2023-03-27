@@ -2,23 +2,27 @@
   "name": "weather_app",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
   "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^2.6.9",
+    "tr46": "^0.0.3",
+    "webidl-conversions": "^3.0.1",
+    "whatwg-url": "^5.0.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gitdagray/weather_app_tut.git"
+    "url": "git+https://github.com/johnmal2012/weather_map.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gitdagray/weather_app_tut/issues"
+    "url": "https://github.com/johnmal2012/weather_map/issues"
   },
-  "homepage": "https://github.com/gitdagray/weather_app_tut#readme",
-  "dependencies": {
-    "node-fetch": "^2.6.9"
-  }
+  "homepage": "https://github.com/johnmal2012/weather_map#readme"
 }
